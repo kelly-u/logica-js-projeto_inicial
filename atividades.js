@@ -1,3 +1,5 @@
+// Atividades do curso
+
 /*
 if(tentativas > 1){
     alert(`Parabéns, você acertou o número secreto ${numeroSecreto} com ${tentativas} tentativas`);
